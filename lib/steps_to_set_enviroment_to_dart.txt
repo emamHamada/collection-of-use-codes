@@ -1,0 +1,55 @@
+// the official website =>
+https://dart.dev/
+
+// to set up the dart environment =>
+https://dart.dev/get-dart
+
+// steps =>
+
+1- Press Windows+R to open the Run window.
+   Type cmd into the box.
+   Press Ctrl+Shift+Enter.
+2- To install the Dart SDK:run this command..
+
+   choco install dart-sdk 
+3- To upgrade the Dart SDK:run this command..
+
+   choco upgrade dart-sdk
+4-If you can’t use the Dart SDK executables, add the SDK location to your PATH:
+
+   1-In the Windows search box, type 'env'.
+   2- Click Edit the system environment variables.
+   3- Click Environment Variables….
+   4- In the user variable section, select Path and click Edit….
+   5- Click New, and enter the path to the dart-sdk directory. initialy is  C:\tools\dart-sdk\bin  =>
+   6- In each window that you just opened, click Apply or OK to dismiss it and apply the path change.
+5- Supported versions: Windows 10 and 11.
+   Supported architectures: x64, IA32.
+
+// dart decumentation  to have all to learn dart here you go  =>
+  https://dart.dev/guides
+
+// try dart simple codes =>
+  https://dart.dev/#try-dart
+
+// read an overview about dart 
+  https://dart.dev/overview
+
+// you will use any ide or dart pad =>
+
+   - https://dartpad.dartlang.org/?null_safety=true 
+   - https://code.visualstudio.com/download  => custamize your owen settings
+   - https://developer.android.com/studio?gclid=CjwKCAjw2rmWBhB4EiwAiJ0mtSiSOFKJKdV-iAZr3ML0xW7_wiYAen_eu2AdRZNeLQv_-kzu3p190xoCYoIQAvD_BwE&gclsrc=aw.ds
+
+// how to set code editors =>
+   - any code editor you must add the plugin of dart to it and custamize it to ypur owen settings 
+   - add the sdk path to the code editot 
+   - create project as dart extention then code finaly run 
+   - hint you can put project any where on the pc 
+
+// you should learn shot cuts for all ide's you work with to facilitate your journy of coding 
+
+//  short cuts for vscode =>
+   https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf 
+   
+
