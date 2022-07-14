@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/95125518/179025235-c5a12ccc-1896-4c6c-b975-94e318e00b85.png" width="6500" height="250" />
 </p>
@@ -22,9 +20,13 @@
 
 ## resources
 
-- [dart.div documentations](https://dart.dev/guides) :arrow_up:
-- [vscode short cuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) :arrow_up:
-- [samples](https://dart.dev/samples) :arrow_up:
-- [instail dart](https://dart.dev/get-dart) :arrow_down:
-- [instail vscode](https://code.visualstudio.com/download) :arrow_down:
-- [instail android studio](https://developer.android.com/studio?gclid=CjwKCAjw2rmWBhB4EiwAiJ0mtSiSOFKJKdV-iAZr3ML0xW7_wiYAen_eu2AdRZNeLQv_-kzu3p190xoCYoIQAvD_BwE&gclsrc=aw.ds) :arrow_down:
+- [dart.div documentations](https://dart.dev/guides) ⬆️
+- [vscode short cuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) ⬆️
+- [samples](https://dart.dev/samples) ⬆️
+- [instail dart](https://dart.dev/get-dart) ⬇️
+- [instail vscode](https://code.visualstudio.com/download) ⬇️
+- [instail android studio](https://developer.android.com/studio?gclid=CjwKCAjw2rmWBhB4EiwAiJ0mtSiSOFKJKdV-iAZr3ML0xW7_wiYAen_eu2AdRZNeLQv_-kzu3p190xoCYoIQAvD_BwE&gclsrc=aw.ds) ⬇️
+- [dart linting rules](https://github.com/dart-lang/lints) 😄
+- [all about dart](https://github.com/dart-lang) 😍
+- [linter rules](https://dart-lang.github.io/linter/lints/) 😝
+- [vedio about dart](https://youtu.be/5F-6n_2XWR8) :movie_camera:

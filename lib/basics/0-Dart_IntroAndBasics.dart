@@ -94,6 +94,10 @@
 
 // 13- maps={key:value ,......}
 
+// 14- linting rules ?! all settings that you use when coding on IDE 
+
 //---------------------------------------full project about dart intro and basics--------------------------------------//
+
+
 
 
