@@ -1,6 +1,3 @@
-
-
-image
 # All you want to know with dart and full projects code are included with each part of ellastration
 
 ## **_sections of this repo_**
