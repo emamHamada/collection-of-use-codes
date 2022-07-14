@@ -1,3 +1,2 @@
-# collection-of-use-codes
-how to use shaired prefrences?
-how to use json data file and sirelization?
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
