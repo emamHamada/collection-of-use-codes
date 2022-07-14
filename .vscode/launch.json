@@ -7,7 +7,7 @@
         {
             "name": "all_code_with_dart",
             "request": "launch",
-            "type": "dart"
+            "type": "dart",
         }
     ]
 }
