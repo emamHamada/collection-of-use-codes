@@ -24,4 +24,22 @@
 
 // collections an dart => list => set => map => hiegher order methods 
 
-//
+// suncronous vs asyncronous
+
+// event loop in dart
+
+// future data type 
+
+// async and await with try and catch , future and .then with .catcherror and .whencomplete 
+
+// api , networking 
+
+// http protocole 
+
+// dart:io , dart:convert
+
+// future main function 
+
+// url parsing to uri 
+
+// http status codes

@@ -1,0 +1,11 @@
+// what is compiler ?
+
+// what is sdk?
+
+// what is ide ?
+
+// how to compaire all of them ?
+
+// what you need about dart sdk ?
+
+......
