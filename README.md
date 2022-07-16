@@ -15,6 +15,7 @@
 - [x] NullSafty in Dart .
 - [x] Async and Future Programming .
 - [x] Final Project For Dart .
+- [x] ALL YOU WILL NEED TO LEARN DART IS IN THIS REPO README 
 
 ### `what you will learn here is all basics of Dart and all dart coding skills you want to have with flutter`
 
