@@ -8,7 +8,7 @@ void main() {
   print(list1.reversed);
   list1[1] = 1;
   print(list1);
-  
+
   list1.add(10);
   print(list1);
   list1.addAll([3, 7, 8]);

@@ -17,3 +17,4 @@ void main() {
   print(v2.replaceAll('#', '').trim());
   print(text.trim());
 }
+// string interpolation ==> When using string interpolation, the string ${'a' * length} evaluates to "the character 'a' repeated length times."

@@ -5,7 +5,7 @@ void main() {
   print(now60);
 
   print(DateTime.monthsPerYear); //12
-  print(DateTime.daysPerWeek);  //7
+  print(DateTime.daysPerWeek); //7
   print(DateTime.monday); //1
   print(DateTime.sunday); //7
   print(DateTime.january); //1

@@ -12,7 +12,6 @@ void main() async {
     final str = file.readAsStringSync();
     print(str);
     await file.copy('data2.txt').then((_) => print('File copied'));
-
   } else {
     print('File not found!');
     await file.create().then((_) => print('File created'));

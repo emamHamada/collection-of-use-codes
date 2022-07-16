@@ -3,9 +3,9 @@ void main() {
   list.forEach(a1);
 }
 
-var a1 = (i)=> print(i);
+var a1 = (i) => print(i);
 
-void fun1() => print(3+4);
+void fun1() => print(3 + 4);
 int fun2() => 3 + 4;
 void fun3(x, y) => print(x + y);
 int fun4(x, y) => x + y;

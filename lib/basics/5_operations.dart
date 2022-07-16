@@ -9,6 +9,6 @@ void main() {
   print('y=$y');
 
   print(x > y); //> < >= <= == !=
-  print(x<=y && y>z); // && ||
+  print(x <= y && y > z); // && ||
   print(x is! int); //is is!
 }

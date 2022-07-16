@@ -5,13 +5,13 @@ class A {
 }
 
 class B extends A {
-  B(String message) : super(message){
+  B(String message) : super(message) {
     print('message 2 = $message');
   }
 }
 
 class C extends B {
-  C(String message) : super(message){
+  C(String message) : super(message) {
     print('message 3 = $message');
   }
 }

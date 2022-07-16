@@ -5,8 +5,8 @@ void calc(x, y, operation s) {
 
 void main() {
   operation op;
-  op=sum;
-  op(3,6);
+  op = sum;
+  op(3, 6);
 
   calc(3, 4, sub);
 }

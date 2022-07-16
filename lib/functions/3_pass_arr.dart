@@ -8,6 +8,6 @@ void main() {
 
 void fun(List<dynamic> list) {
   for (var i = 0; i < list.length; i++) {
-    print('value${i+1} = ${list[i]}');
+    print('value${i + 1} = ${list[i]}');
   }
 }
