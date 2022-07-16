@@ -6,6 +6,8 @@
 
 ## **_sections of this repo_**
 
+### [A tour of the Dart language , start from here please](https://dart.dev/guides/language/language-tour)
+
 - [x] set up environment to use dart in you pc .
 - [x] set an IDE to use coding with dart .
 - [x] basics and Introduction of Dart .
@@ -15,7 +17,6 @@
 - [x] NullSafty in Dart .
 - [x] Async and Future Programming .
 - [x] Final Project For Dart .
-- [x] ALL YOU WILL NEED TO LEARN DART IS IN THIS REPO README 
 
 ### `what you will learn here is all basics of Dart and all dart coding skills you want to have with flutter`
 
@@ -41,6 +42,7 @@
 :blue_book:[Quick Start Guide To Dart Programming](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124791/Sinha2020_Book_QuickStartGuideToDartProgrammi.pdf)<br>
 :blue_book:[Dart Apprentice](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124795/Dart.Apprentice.pdf)<br>
 :blue_book:[Dart-CC](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124800/1-.Dart-CC.pdf)<br>
+
 </details>
 
 - [DartPad in tutorials: Best practices](https://dart.dev/resources/dartpad-best-practices)
@@ -255,6 +257,9 @@
 :heavy_check_mark:[ dart:developer](https://api.dart.dev/stable/2.17.6/dart-developer/dart-developer-library.html)<br>
 :heavy_check_mark: [dart:math](https://api.dart.dev/stable/2.17.6/dart-math/dart-math-library.html)<br>
 :heavy_check_mark: [dart:typed_data](https://api.dart.dev/stable/2.17.6/dart-typed_data/dart-typed_data-library.html)<br>
+:heavy_check_mark: [An introduction to the dart:io library](https://dart.dev/articles/libraries/dart-io)<br>
+:heavy_check_mark: [Creating streams in Dart](https://dart.dev/articles/libraries/creating-streams)<br>
+:heavy_check_mark: [A tour of the core libraries](https://dart.dev/guides/libraries/library-tour)<br>
 
 </details>
 
@@ -284,3 +289,5 @@
 
 </details>
 </details>
+
+> > > > > > > > > > [List of Dart codelabs](https://dart.dev/codelabs)<br> > [Language cheatsheet](https://dart.dev/codelabs/dart-cheatsheet)<br> > [Iterable collections](https://dart.dev/codelabs/iterables)<br> > [Asynchronous programming](https://dart.dev/codelabs/async-await)<br> > [Null safety](https://dart.dev/codelabs/null-safety)<br> > [Tutorials](https://dart.dev/tutorials)<br>
