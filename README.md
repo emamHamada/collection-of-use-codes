@@ -18,6 +18,9 @@
 
 ### `what you will learn here is all basics of Dart and all dart coding skills you want to have with flutter`
 
+<details>
+<summary> Dart Resources </summary>
+
 ## resources
 
 - [dart.div documentations](https://dart.dev/guides) ⬆️
@@ -31,7 +34,9 @@
 - [linter rules](https://dart-lang.github.io/linter/lints/) 😝
 - [vedio about dart](https://youtu.be/5F-6n_2XWR8) :movie_camera:
 - [fake RestAPI placeholder](https://jsonplaceholder.typicode.com/) 😄
-- [Books](https://dart.dev/resources/books)<details><summary> Dart Books </summary>
+- [Books](https://dart.dev/resources/books)
+<details> <summary> Dart Books </summary>
+
 :blue_book:[Quick Start Guide To Dart Programming](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124791/Sinha2020_Book_QuickStartGuideToDartProgrammi.pdf)<br>
 :blue_book:[Dart Apprentice](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124795/Dart.Apprentice.pdf)<br>
 :blue_book:[Dart-CC](https://github.com/emamHamada/Dart-All-you-want-to-know-/files/9124800/1-.Dart-CC.pdf)<br>
@@ -76,7 +81,6 @@
 # all you want to learn with dart programming
 
 <details>
-
 <summary>  Detailed list</summary>
 
 - [ ] String interpolation
@@ -229,6 +233,8 @@
 - [ ] Windows Flutter Installation
 - [ ] Mac Flutter Installation
 - [ ] Intro to VS Code
+
+</details>
 
 </details>
 
