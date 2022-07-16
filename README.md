@@ -31,6 +31,19 @@
 - [linter rules](https://dart-lang.github.io/linter/lints/) 😝
 - [vedio about dart](https://youtu.be/5F-6n_2XWR8) :movie_camera:
 - [fake RestAPI placeholder](https://jsonplaceholder.typicode.com/) 😄
+- [Books](https://dart.dev/resources/books)<details><summary> Dart Books </summary>
+:blue_book: Quick Start Guide to Dart Programming<br>
+:blue_book: <br>
+:blue_book: <br>
+:blue_book: <br>
+:blue_book: <br>
+:blue_book: <br>
+</details>
+
+- [DartPad in tutorials: Best practices](https://dart.dev/resources/dartpad-best-practices)
+- [Dart FAQ](https://dart.dev/faq)
+- [Dart 2 migration guide](https://dart.dev/dart-2)
+- [dart videos from google ](https://dart.dev/resources/videos)
 
 ---
 
